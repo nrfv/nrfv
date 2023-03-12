@@ -1,3 +1,3 @@
-- 🥰 My name is Marcie, my name is short for **Marceline**!
-
-- 🥰 I'm a 17 year old that hails from **Texas**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
