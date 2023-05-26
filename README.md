@@ -5,7 +5,7 @@
 Hello!
 
 - My name is Marcie Crest!
-- I'm an 18 year old Developer that specializes in JS and Python
+- I'm an 18 year old Developer that makes shit in JS n Python
 - I also enjoy video games and [making content](https://twitch.tv/marscres)!
 
 <div id="badges">
