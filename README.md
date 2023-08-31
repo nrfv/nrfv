@@ -4,7 +4,7 @@
 
 Hello!
 
-- My name is Laxos!
+- My name is Tsuki!
 - I'm an 18-year-old Developer that makes shit in JS n Python
 - I also enjoy video games and [making content](https://twitch.tv/marscres)!
 
