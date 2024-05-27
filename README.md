@@ -4,15 +4,16 @@
 
 Hello!
 
-- My name is Tsuki!
-- I'm an 18-year-old Developer that makes shit in JS n Python
-- I also enjoy video games and [making content](https://twitch.tv/marscres)!
+- My name is Marcie!
+- I'm a 19-year-old bot developer.
+- I also enjoy video games and [streaming](https://twitch.tv/marciehvo)!
+- Check out my other [socials](https://marcie.club/mars)
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCisczzgGI-BcYVLDoHhpdGg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/o73g">
+  <a href="https://twitter.com/MarcieHVO">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
