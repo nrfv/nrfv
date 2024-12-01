@@ -5,8 +5,8 @@
 Hello!
 
 - My name is Marcie!
-- I'm a 19-year-old bot developer.
-- I also enjoy video games and [streaming](https://twitch.tv/marciehvo)!
+- I'm a 19-year-old who does stuff that I enjoy.
+- I also like [streaming stuff sometimes](https://twitch.tv/marciehvo)!
 - Check out my other [socials](https://marcie.club/mars)
 
 <div id="badges">
